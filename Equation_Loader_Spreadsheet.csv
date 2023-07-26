@@ -1,0 +1,6 @@
+equation_name,equation_string,variable_string
+first_kinematic_equation,v_x0 + a_x * t - v_x,v_x0 a_x t v_x
+second_kinematic_equation,x_0 + v_x0 * t + (1/2) * a_x * t**2 - x,x_0 v_x0 t a_x x
+third_kinematic_equation,v_x0**2 + 2 * a_x * (x - x_0) - v_x**2,v_x0 a-x x x_0
+net_force_equation,F_net - m * a_x,F_net m a_x
+kinetic_energy_equation,(1/2) * m * v_x**2 - K,m v_x K
