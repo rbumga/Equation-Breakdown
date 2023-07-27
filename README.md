@@ -1,1 +1,1 @@
-# Equation Breakdownn
+# Equation Breakdown
